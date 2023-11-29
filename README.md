@@ -13,7 +13,7 @@
 This documentation is for anyone trying to setup a secure connection in Flask, FastApi, Spark, Airflow, 
 
 ## Flask Secure Connection
-As an example, we're going to use the application [app.py](https://github.com/KubeHawk/SSL/tree/main/app.py).
+As an example, we're going to use the application [app.py](https://github.com/KubeHawk/SSL/blob/main/Flask/app.py).
 
 ```sh
 # Import flask module
